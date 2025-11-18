@@ -1,0 +1,1 @@
+{"code":"V009","falseAlarm":false,"level":0,"message":"To use free version of PVS-Studio, source code files are required to start with a special comment.","positions":[{"file":"C:\\Users\\razva\\Desktop\\CLION\\Nucleon\\cmake-build-debug\\_deps\\sdl3-src\\src\\joystick\\hidapi\\SDL_hidapi_steam.c","lines":[1]}]}
