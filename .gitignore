@@ -5,6 +5,7 @@ out/
 .idea/
 .vs/
 .vscode/
+.PVS-Studio/
 *.user
 
 *.o
