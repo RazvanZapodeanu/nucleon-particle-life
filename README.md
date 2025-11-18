@@ -1,6 +1,9 @@
 # Nucleon
 
  Particle life simulator with spatial grid optimization and multithreading. Explore emergent patterns from simple interaction rules using an interactive UI.
+
+ https://github.com/user-attachments/assets/ee1424af-bfe5-40b6-ae04-5bab13caa476
+ 
 ## Features
 
 - **Physics Simulation**
@@ -67,3 +70,4 @@ cd nucleon-particle-life
 Inspired by [Jeffrey Ventrella's Clusters](http://www.ventrella.com/Clusters/)
 
 ---
+
